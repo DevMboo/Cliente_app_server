@@ -14,7 +14,7 @@ public class Internacionalizacao {
     *  Classe de formatação das mensagem de erros
     *  em caso de mal utilização na introdução de
     *  dados no banco de dados, para a tratativa
-    *  mais agradavel para o usário.
+    *  mais agradavel para o usuário.
     * */
     @Bean
     public MessageSource messageSource(){
